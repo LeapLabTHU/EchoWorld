@@ -1,5 +1,6 @@
 # EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance (CVPR 2025)
 <a href='https://arxiv.org/abs/2504.13065'><img src='https://img.shields.io/badge/Arxiv-2504.13065-red'>
+
 Authors: Yang Yue\*, Yulin Wang\*, Haojun Jiang, Pan Liu, Shiji Song, Gao Huang\#.
 
 \*: Equal contribution, \#: Corresponding author.
