@@ -1,0 +1,1 @@
+python main.py --fname configs/cardiac_vits16_p384x6_simclr.yaml --world-size 1 --rank 0 --multiprocessing-distributed --intra_weight 1.0 --extra_weight 0.1 --extra_mode simclr  
